@@ -13,5 +13,11 @@ button {
 
 
 }
+body{
+	background-color:cyan;
+	color:black;
+	font-size:40px;
+	margin-left:100px;
+}
 
 

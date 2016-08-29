@@ -25,7 +25,7 @@ export default React.createClass({
   },
   render: function () {
     return (
-      <button onClick={this.handleClick} className="likebutton">{this.state.count} like{this.state.s}</button>
+      <button onClick={this.handleClick} className="likebutton">{this.state.count} Like {this.state.s}</button>
     )
   }
 })
